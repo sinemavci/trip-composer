@@ -12,7 +12,20 @@
           "package_name": "com.example.trip_composer"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "775008390696-k37afj9j6612gqiibdd414u1mbch0cc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trip_composer",
+            "certificate_hash": "818545acc49607a16b1be38c5fd72068d1fcfa0d"
+          }
+        },
+        {
+          "client_id": "775008390696-2kf5193746p59ieaa55a69ua10o1jmf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAAzCMxKN150KwA7q2_oPsjgJ3Ikp4x-ag"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775008390696-2kf5193746p59ieaa55a69ua10o1jmf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
